@@ -1,0 +1,9 @@
+{
+  "name": "game-snake-canvas",
+  "version": "1.0.0",
+  "author": "MaryPro <maria.prokopyuk@mail.ru>",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
